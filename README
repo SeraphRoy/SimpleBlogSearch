@@ -1,0 +1,26 @@
+SimpleBlogSearch
+=========
+
+A small library that does searching in your static blog contents.
+
+## Installation
+
+  `npm install @searphroy/simpleblogsearch`
+
+## Usage
+
+```
+<script>
+SimpleBlogSearch({
+   searchDataPath: '{{ site.baseurl }}/assets/search_data.json',
+   dataType: 'json',
+   processDataFunc: function(data){ return data },
+   searchInputID: 'search_box',
+   resultsDivID: 'search_results',
+   resultULClass: 'content-ul search-ul content-side',
+   highlightKeywordClass: 'search_keyword',
+   limit: 4,
+
+});
+</script>
+```

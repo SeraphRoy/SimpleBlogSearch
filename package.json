@@ -1,0 +1,25 @@
+{
+  "name": "simpleblogsearch",
+  "version": "0.0.3",
+  "description": "A simple search function for static blog websites like Jekyll.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeraphRoy/SimpleBlogSearch.git"
+  },
+  "keywords": [
+    "Jekyll",
+    "blog",
+    "Javascript",
+    "Node"
+  ],
+  "author": "Yanxi Chen<royxagain@gmail.com> (https://www.gaeblogx.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SeraphRoy/SimpleBlogSearch/issues"
+  },
+  "homepage": "https://github.com/SeraphRoy/SimpleBlogSearch#readme"
+}
