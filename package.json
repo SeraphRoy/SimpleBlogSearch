@@ -1,6 +1,6 @@
 {
   "name": "simpleblogsearch",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A simple search function for static blog websites like Jekyll.",
   "main": "index.js",
   "scripts": {
